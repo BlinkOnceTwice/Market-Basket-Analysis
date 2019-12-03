@@ -8,6 +8,7 @@ Market Basket Analysis using 4 approaches:
 4. XGBoost 
 
 * Hosted the MLXIntend model using Docker.
+* This model uses the in-built apriori and association rules library.
 * The model and the README file is included in the folder named LocalHost Application.
 
 
